@@ -13,7 +13,7 @@
 
 My name is: John
 
-I like to: Spend time with my family, read, learn, be outdoors being active.
+I like to: Spend time with my family, read, learn, be outdoors.
 
 I'm learning: Javascript and overall web basics.
 
